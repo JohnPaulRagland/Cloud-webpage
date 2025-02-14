@@ -1,1 +1,2 @@
-# Cloud-webpage
+# staticwebapp
+Static webapp
